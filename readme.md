@@ -7,7 +7,7 @@
 > -------------------------------------
 > # My Skills 
 > <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-> <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C++"/> **C#** 🟢
+>  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CSharp_Logo.svg/512px-CSharp_Logo.svg.png" alt="C#"/>
 > 
 
 
