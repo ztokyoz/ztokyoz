@@ -6,10 +6,8 @@
 >
 > -------------------------------------
 > # My Skills 
-> <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-> <code><img height="32" src="[https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png](https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png)" alt="c"/></code>
-
-
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
 
 
