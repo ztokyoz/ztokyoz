@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a variety of skill
 
 ---
 
-![image]([BadgeURLAqui](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-))
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/ztokyoz/github-readme-stats)
 
 ### 🖥️ **ImGUI Development**
 As an ImGUI developer, I create stunning and functional user interfaces for various projects, especially in cheat systems and gaming tools. I'm dedicated to making my UIs smooth, responsive, and visually appealing, all while maintaining excellent usability.
