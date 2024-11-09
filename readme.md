@@ -6,13 +6,15 @@
 >
 > -------------------------------------
 > # My Skills 
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+
+
+
 
 Welcome to my GitHub profile! I'm a passionate developer with a variety of skills, specializing in game modifications, UI development, and Minecraft server configurations. Below, you can find a brief summary of my expertise:
 
 ---
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-[![Your-Username](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🖥️ **ImGUI Development**
 As an ImGUI developer, I create stunning and functional user interfaces for various projects, especially in cheat systems and gaming tools. I'm dedicated to making my UIs smooth, responsive, and visually appealing, all while maintaining excellent usability.
