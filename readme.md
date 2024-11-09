@@ -7,7 +7,8 @@
 > -------------------------------------
 > # My Skills 
 > <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-> <code><img height="32" src="[https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png](https://cdn.iconscout.com/icon/free/png-512/free-c-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226082.png)" alt="c"/></code>
+> <code><img height="32" src="[https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png](https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png)" alt="c"/></code>
+
 
 
 
