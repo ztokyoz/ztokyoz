@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a variety of skills, specializing in game modifications, UI development, and Minecraft server configurations. Below, you can find a brief summary of my expertise:
 
 ---
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ztokyoz&hide=html&layout=compact&theme=default)](https://github.com/ztokyoz/github-readme-stats)
 
 ### 🖥️ **ImGUI Development**
