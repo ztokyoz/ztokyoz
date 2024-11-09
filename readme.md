@@ -7,8 +7,6 @@
 > -------------------------------------
 > # My Skills 
 > <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
->  <code><img height="32" src="[https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png](https://iconscout.com/free-3d-illustration/c-plus-plus-5728486)" alt="c"/></code>
-
 
 
 
