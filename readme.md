@@ -2,7 +2,7 @@
 # 🔔 zeroENGINE CEO
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.## 💻 ImGUI Developer & ⛏️ Minecraft Expert
+> ## 💻 ImGUI Developer & ⛏️ Minecraft Expert
 
 Welcome to my GitHub profile! I'm a passionate developer with a variety of skills, specializing in game modifications, UI development, and Minecraft server configurations. Below, you can find a brief summary of my expertise:
 
